@@ -1,0 +1,15 @@
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/AreaOfACircle(1002)/AreaOfACircle/bin/Debug/net6.0/AreaOfACircle
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/AreaOfACircle(1002)/AreaOfACircle/bin/Debug/net6.0/AreaOfACircle.deps.json
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/AreaOfACircle(1002)/AreaOfACircle/bin/Debug/net6.0/AreaOfACircle.runtimeconfig.json
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/AreaOfACircle(1002)/AreaOfACircle/bin/Debug/net6.0/AreaOfACircle.dll
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/AreaOfACircle(1002)/AreaOfACircle/bin/Debug/net6.0/AreaOfACircle.pdb
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/AreaOfACircle(1002)/AreaOfACircle/obj/Debug/net6.0/AreaOfACircle.csproj.AssemblyReference.cache
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/AreaOfACircle(1002)/AreaOfACircle/obj/Debug/net6.0/AreaOfACircle.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/AreaOfACircle(1002)/AreaOfACircle/obj/Debug/net6.0/AreaOfACircle.AssemblyInfoInputs.cache
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/AreaOfACircle(1002)/AreaOfACircle/obj/Debug/net6.0/AreaOfACircle.AssemblyInfo.cs
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/AreaOfACircle(1002)/AreaOfACircle/obj/Debug/net6.0/AreaOfACircle.csproj.CoreCompileInputs.cache
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/AreaOfACircle(1002)/AreaOfACircle/obj/Debug/net6.0/AreaOfACircle.dll
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/AreaOfACircle(1002)/AreaOfACircle/obj/Debug/net6.0/refint/AreaOfACircle.dll
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/AreaOfACircle(1002)/AreaOfACircle/obj/Debug/net6.0/AreaOfACircle.pdb
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/AreaOfACircle(1002)/AreaOfACircle/obj/Debug/net6.0/AreaOfACircle.genruntimeconfig.cache
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/AreaOfACircle(1002)/AreaOfACircle/obj/Debug/net6.0/ref/AreaOfACircle.dll

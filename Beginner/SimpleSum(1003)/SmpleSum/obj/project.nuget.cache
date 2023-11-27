@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+JCWQrZ7YttTzr56718VQPHClEqWbFWO0TAYr0H+WC7Vk6lGHfV6sdnb3PDwM6oXFAlIu4nsOXAsVUojapCHfA==",
+  "success": true,
+  "projectFilePath": "/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/SimpleSum(1003)/SmpleSum/SmpleSum.csproj",
+  "expectedPackageFiles": [
+    "/home/ruan/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.25/microsoft.netcore.app.host.linux-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

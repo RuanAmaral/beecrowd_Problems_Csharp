@@ -1,0 +1,15 @@
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/ExtremelyBasic(1001)/EtremelyBasic/bin/Debug/net6.0/EtremelyBasic
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/ExtremelyBasic(1001)/EtremelyBasic/bin/Debug/net6.0/EtremelyBasic.deps.json
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/ExtremelyBasic(1001)/EtremelyBasic/bin/Debug/net6.0/EtremelyBasic.runtimeconfig.json
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/ExtremelyBasic(1001)/EtremelyBasic/bin/Debug/net6.0/EtremelyBasic.dll
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/ExtremelyBasic(1001)/EtremelyBasic/bin/Debug/net6.0/EtremelyBasic.pdb
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/ExtremelyBasic(1001)/EtremelyBasic/obj/Debug/net6.0/EtremelyBasic.csproj.AssemblyReference.cache
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/ExtremelyBasic(1001)/EtremelyBasic/obj/Debug/net6.0/EtremelyBasic.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/ExtremelyBasic(1001)/EtremelyBasic/obj/Debug/net6.0/EtremelyBasic.AssemblyInfoInputs.cache
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/ExtremelyBasic(1001)/EtremelyBasic/obj/Debug/net6.0/EtremelyBasic.AssemblyInfo.cs
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/ExtremelyBasic(1001)/EtremelyBasic/obj/Debug/net6.0/EtremelyBasic.csproj.CoreCompileInputs.cache
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/ExtremelyBasic(1001)/EtremelyBasic/obj/Debug/net6.0/EtremelyBasic.dll
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/ExtremelyBasic(1001)/EtremelyBasic/obj/Debug/net6.0/refint/EtremelyBasic.dll
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/ExtremelyBasic(1001)/EtremelyBasic/obj/Debug/net6.0/EtremelyBasic.pdb
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/ExtremelyBasic(1001)/EtremelyBasic/obj/Debug/net6.0/EtremelyBasic.genruntimeconfig.cache
+/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/ExtremelyBasic(1001)/EtremelyBasic/obj/Debug/net6.0/ref/EtremelyBasic.dll

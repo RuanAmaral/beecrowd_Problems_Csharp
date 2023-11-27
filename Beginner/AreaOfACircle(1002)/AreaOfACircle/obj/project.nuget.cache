@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xn85pjDSvRFOGrNP+5+zmOEsXBJbDZm7rxwNmpQcK2zPi0maVnSQTJsfz/LpIwrt4kmMkZr6Rrqf++R/dTDwcQ==",
+  "success": true,
+  "projectFilePath": "/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/AreaOfACircle(1002)/AreaOfACircle/AreaOfACircle.csproj",
+  "expectedPackageFiles": [
+    "/home/ruan/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.25/microsoft.netcore.app.host.linux-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

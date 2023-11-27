@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XY4vbEPh4y7CPMAr4EJD38lB/raiE2dU1+lS+xiWDQvh0gtC6gmer1SGxVZ7H0gOeQvrHXINPTXN23HMZGJEJw==",
+  "success": true,
+  "projectFilePath": "/home/ruan/Desenvolvimento/beecrowd_Problems_Csharp/Beginner/ExtremelyBasic(1001)/EtremelyBasic/EtremelyBasic.csproj",
+  "expectedPackageFiles": [
+    "/home/ruan/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.25/microsoft.netcore.app.host.linux-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
